@@ -59,6 +59,27 @@
                     <h4>columna 3</h4>
                 </div>
             </div>
+            
+            <h3>columnas dentro de columnas</h3>
+            <div class="row d-flex justify-content-around">
+                <div class="col-3 uno col-auto order-last">
+                    <h4>columna 1</h4>
+                    <div class="row">
+                        <div class="col-6 dos">
+                            <h5>c-1.1</h5>
+                        </div>
+                        <div class="col-6 uno">
+                            <h5>c-1.2</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-3 dos col-auto">
+                    <h4>columna 2</h4>
+                </div>
+                <div class="col-3 tres col-auto">
+                    <h4>columna 3</h4>
+                </div>
+            </div>
 
         </div>
 
