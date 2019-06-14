@@ -1,0 +1,19 @@
+/* todos los row dentro de un div */
+.row > div {
+    /*background: #f2f2f2;*/
+    margin: 10px 0; /* arriba abajo y a los lados */
+}
+
+
+
+.row {
+    background-color: #efefef;
+}
+
+.uno { background-color: #ffcccc; text-align: center; }
+.dos { background-color: #ffffcc; text-align: center;}
+.tres { background-color: #ccccff; text-align: center;}
+
+.alto-fijo {
+    height: 150px;
+}
