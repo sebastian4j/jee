@@ -1,2 +1,10 @@
 target/
 payara-jaas/nb-configuration\.xml
+
+payara-jaas/\.classpath
+
+payara-jaas/\.project
+
+payara-jaas/\.settings/
+
+payara-jaas/\.tern-project
