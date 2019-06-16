@@ -76,6 +76,17 @@
                             <p>Sebastian Avila A.</p></footer>
                     </blockquote>
                 </div>
+                <div class="w-100"></div>
+                <div class="col-12">
+                    ejemplo con <code>codigo fuente</code> para visualizarlo
+                </div>
+                <div class="col-12">
+                    <p><pre><code>System.out.println("hola");</code></pre></p>
+                </div>
+                <div class="col-12">
+                    <p>para copiar texto <kbd>Ctrl + c</kbd></p>
+                    <p>para pegar texto <kbd>Ctrl + v</kbd></p>
+                </div>
             </div>
         </div>
         <%@include file="includes/static/enlacesFooter.jsp"%>
